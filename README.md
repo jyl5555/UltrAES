@@ -1,6 +1,6 @@
 # UltrAES
-一款轻量开源、免费、基于AES-256算法的加密工具。<br>
-by UltrAES Develop Group 2025, 金煜力
+## 一款基于AES-256算法的加密工具
+*by UltrAES Develop Group 2025, 金煜力*
 <br>
 ### 📕软件说明：
 UltrAES是一款完全免费的工具，任何人都可以从此处下载并用于保护个人数据安全！本程序已经经过数字签名(使用者: Ling Jin, 颁发者: Certum Code Signing 2021 CA)，支持Win8.1及以上32/64位Windows系统，单个文件，无需安装，即开即用！<br>
