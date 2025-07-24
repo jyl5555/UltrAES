@@ -1,0 +1,33 @@
+# UTF-8
+#
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 1),    # 文件版本
+    prodvers=(1, 0, 0, 1),    # 产品版本
+    mask=0x0,
+    flags=0x0,
+    OS=0x0,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        '000004B0',
+        [
+          StringStruct('CompanyName', '金煜力'),		#公司名
+          StringStruct('FileVersion', '1.0.0.1'),	#文件版本
+          StringStruct('FileDescription', 'UltrAES-1.0'),	#文件描述
+          StringStruct('InternalName', ''),
+          StringStruct('LegalCopyright', '©2025 金煜力'),	#版权
+          StringStruct('LegalTrademarks', ''),	#版权标记
+          StringStruct('OriginalFilename', 'UltrAES-1.0.exe'),	#原始文件名
+          StringStruct('ProductName', 'UltrAES'),	#产品名
+          StringStruct('ProductVersion', '1.0.0.1')	#产品版本
+        ])
+      ]), 
+    VarFileInfo([VarStruct('Translation', [0, 1200])])
+  ]
+)

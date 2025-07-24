@@ -1,0 +1,111 @@
+[Lang]
+1000=UltrAES-1.0.0.1
+1001=Input File or Directory (Drag in):
+1002=Key File (Drag in):
+1003=Output Path:
+1004=Browse
+1005=Generate
+1006=Start
+1007=Help
+1008=About
+1010=Save Key File
+1011=Generate
+1012=Key file successfully generated!
+1013=All Files
+1014=Error
+1015=Key file is invalid!
+1016=Input file cannot be empty!
+1017=Input file does not exist!
+1018=Key file cannot be empty!
+1019=Key file does not exist!
+1020=Output path does not exist!
+1021=Prompt
+1022=Encryption Complete!
+1023=Decryption Complete!
+1024=AES Key
+1025=Function
+1026=Switch Language
+1027=Language switched successfully. Please restart the application!
+1028=Exit
+1029=Ready
+1030=Progress
+1031=Completed
+1032=Not Started
+1033=Generate Key
+1034=AES Encryption/Decryption
+1041=Extract File
+1042=The decrypted output file is a zip file, likely a directory packed by this tool. Extract it?
+1043=Select Extraction Output Directory
+1044=Output zip cannot be extracted or is corrupted!
+1045=Delete Source File After Completion
+1046=File Processing
+1047=Options
+1048=Window Always On Top
+1049=Encryption/Decryption task in progress. Confirm cancel?
+1050=No output file!
+1051=Cannot verify while encrypting/decrypting!
+1052=Verify
+1053=Calculating...
+1054=Result
+1055=Please compare it with your verification data.
+1056=Verify Output File
+1057=Calculation Result
+1058=Compare
+1059=Comparison Algorithm:
+1060=Current Data:
+1061=Comparison Data
+1062=Compare
+1063=Please enter comparison data!
+1064=Current data matches the comparison data.
+1065=Current data differs from the comparison data!
+1066=Browse Input File
+1067=Browse Key File
+1068=Decryption complete, but invalid padding detected. File may be corrupted or password incorrect.
+1069=Enter Password
+1070=Enter password for key file:
+1071=Confirm Password
+1072=Confirm key file password:
+1073=Passwords do not match!
+1074=Password cannot be empty!
+1075=Enter password from key file:
+1076=OK
+1077=Cancel
+1078=Show Password
+1079=Log & Progress
+1080=Encrypting...
+1081=Encryption Complete
+1082=Decrypting...
+1083=Decryption Complete
+1084=Input is a directory. The target directory will be packed into a zip file and encrypted.
+1085=Zip Output:
+1086=Directory Packed into Zip File
+1087=Extract Output File
+1088=Ready
+1089=Starting Encryption
+1090=Encryption Output:
+1091=Starting Decryption
+1092=Decryption Output:
+1093=Delete Source File
+1094=Program Started
+1095=Creating configuration file:
+1096=Reading configuration file
+1097=Window Always On Top setting: No
+1098=Window Always On Top setting: Yes
+1099=Calculation Failed
+1100=Calculation Complete
+1101=Starting Checksum Calculation
+
+[Help]
+about=About
+ UltrAES-V1.0.0 (Build 1)
+ (c) Copyright 2025 Jin Yuli. All Rights Reserved.
+
+ UltrAES is a lightweight, open-source, and free encryption software based on AES-256, providing high-strength and fast encryption.
+ This tool is intended solely for protecting personal data security. Do not misuse! Commercial use is prohibited without permission. Do not use this tool
+ for any illegal or non-compliant activities!
+
+ Built-in component versions:
+ Key Generation Tool: V1.0.0.1
+ Hash Verification Tool: V1.0.0.1
+
+ Release Date: July 23, 2025.
