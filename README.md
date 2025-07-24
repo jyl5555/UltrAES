@@ -11,6 +11,18 @@ pip install pycryptodome windnd
 ```
 <br>
 
+### ✈源码构建
+本程序使用Python编写的，使用Pyinstaller打包成EXE。
+下载源码之后，你应该会看到res, src两个文件夹和一个UltrAES.spec。确保你的电脑上有Python(Version 3.8+)、安装了Python依赖库并且安装了Pyinstaller(Version 6.13.0+), 如果没有Pyinstaller，请在cmd中执行以下命令：<br>
+```bash
+pip install pyinstaller>=6.13.0
+```
+进入UltrAES-1.0.spec所在的文件夹，在cmd命令行中导航到此处，执行：<br>
+```bash
+pyinstaller UltrAES-1.0.spec
+```
+看到"Build completed"字样代表打包成功，EXE文件会存放在当前目录下的dist文件夹里。
+
 ### 🚀使用指南：
 本工具是以单个EXE可执行文件的形式分发和使用的，双击打开本工具的EXE文件，你应该会看到一个写有“AES加密工具” <br>
 标题的窗口界面，这代表它可以正常工作（如需进一步确认，可以查看文件属性，会带有一个数字签名）。 如果它不<br>
