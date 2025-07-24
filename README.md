@@ -21,7 +21,7 @@ pip install pyinstaller>=6.13.0
 ```bash
 pyinstaller UltrAES-1.0.spec
 ```
-看到"Build completed"字样代表打包成功，EXE文件会存放在当前目录下的dist文件夹里。
+看到"Build completed"字样代表打包成功，EXE文件会存放在当前目录下的dist文件夹里。由于源码和资源文件被分开了，所以**源码不能直接运行，需要打包或者把源码和res文件夹放在同一目录下才能运行**。
 
 ### 🚀使用指南：
 本工具是以单个EXE可执行文件的形式分发和使用的，双击打开本工具的EXE文件，你应该会看到一个写有“UltrAES-<你的软件版本>” <br>
